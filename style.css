@@ -1,0 +1,22 @@
+#label1{
+    display: block;
+    text-align: center;
+    font-size: 10cm;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#AllButtons{
+    text-align: center;
+}
+
+.buttons{
+    padding: 20px;
+    font-size: 1.5em;
+    color: black;
+    background-color: burlywood;
+    border-radius: 5px;
+}
+
+.buttons:hover{
+    background-color: antiquewhite;
+}
